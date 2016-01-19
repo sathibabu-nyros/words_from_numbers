@@ -20,11 +20,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+TODO: 
 
-words_from_numbers(44280)  => FOURTY FOUR THOUSAND TWO HUNDRED AND EIGHTY ONLY
+	words_from_numbers(44280)  => FOURTY FOUR THOUSAND TWO HUNDRED AND EIGHTY ONLY
 
-words_from_numbers(37015.20)  => THIRTY SEVEN THOUSAND  FIFTEEN AND CENTS TWENTY ONLY
+	words_from_numbers(37015.20)  => THIRTY SEVEN THOUSAND  FIFTEEN AND CENTS TWENTY ONLY
 
 
 After checking out the repo, run `bin/setup` to install dependencies. Then, run `bin/console` for an interactive prompt that will allow you to experiment.

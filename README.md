@@ -21,6 +21,8 @@ Or install it yourself as:
 ## Usage
 
 TODO: 
+	
+	require 'words_from_numbers'
 
 	words_from_numbers(44280)  => FOURTY FOUR THOUSAND TWO HUNDRED AND EIGHTY ONLY
 
